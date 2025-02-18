@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows:"
+authors:
+  - name: "Beeraka Sharmila"
+  - name: "Ch.Lasya Valli"
+  - name: "G.M.S.Vyshnavi"
+  - name: "N.Sree Amrutha"
+  - name: "P.Yuktha"
+  - name: "P.Suma Sree"
+title: "Crowd Management"
+version: "1.0"
+date-released: "2024-05-08"
+url: "https://github.com/Sharmila263/Crowd-Management"
